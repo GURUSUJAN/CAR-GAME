@@ -1,5 +1,3 @@
-//# CAR-GAME
-//GAME WITH OUT GRAPHICS
 #include<stdio.h>
 int game();
 int main()
